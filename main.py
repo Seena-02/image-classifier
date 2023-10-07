@@ -223,7 +223,7 @@ plt.show()
 # In[57]:
 
 
-new_image = plt.imread('pancakes.jpg')
+new_image = plt.imread('images/cat2.jpg')
 img = plt.imshow(new_image)
 
 
